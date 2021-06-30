@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/dell/my/cppvs/problemsolving/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/problem_soving.dir/test.cpp.o -c /home/dell/my/cppvs/problemsolving/test.cpp",
+  "file": "/home/dell/my/cppvs/problemsolving/test.cpp"
+}
+]

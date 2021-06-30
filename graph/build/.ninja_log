@@ -1,0 +1,27 @@
+# ninja log v5
+0	726	1624812358689231601	CMakeFiles/graphs.dir/kruskals.cpp.o	e5b4ae3a87e3b979
+0	2025	1624720260088115592	CMakeFiles/graphs.dir/tarjan'sAlgorithm.cpp.o	519ec7b69ffd62b4
+0	651	1624713992978407330	CMakeFiles/graphs.dir/kossaraju'sAlgorithm.cpp.o	783f8d95e64cd279
+0	691	1624109967407805548	CMakeFiles/graphs.dir/ssspontreeusingdfs.cpp.o	3a230539cd7b1041
+726	830	1624812358793233348	graphs	2043b8978aedf0c3
+0	629	1624460411920220632	CMakeFiles/graphs.dir/findArticulationPoint.cpp.o	138da237f21c0832
+0	687	1624114349733542910	CMakeFiles/graphs.dir/identifyBipartite.cpp.o	e7ec03ddbbdc998c
+0	661	1624194749743546239	CMakeFiles/graphs.dir/inouttimesdfs.cpp.o	da16c61fee18dba9
+0	743	1624193040887058983	CMakeFiles/graphs.dir/cycleDetectionUsingDFSAndBackEdge.cpp.o	2565ce767e323b65
+0	802	1624355961722016934	CMakeFiles/graphs.dir/ssspUsingBfs.cpp.o	e339ae01871b8a57
+0	606	1624627686614179698	CMakeFiles/graphs.dir/bfsOn2dGrid.cpp.o	1aa51d02a45d9ba
+1	674	1624350475952478944	CMakeFiles/graphs.dir/diameterOfTree.cpp.o	d8cbfa856ae4a455
+1	701	1624354710196248920	CMakeFiles/graphs.dir/subTreeSizeusingDfs.cpp.o	cdf1f0fc3d5e782c
+0	737	1624446782713707301	CMakeFiles/graphs.dir/findingBridges.cpp.o	31072dd9b7b17232
+1	956	1624540023364988087	CMakeFiles/graphs.dir/topologicalSortingKahnsAlgorithm.cpp.o	331f80c1c516129f
+1	451	1624619896819474437	CMakeFiles/graphs.dir/countingConnectedComponentsInGrid.cpp.o	eadbb0ef12d723f4
+1	766	1624812411510096105	CMakeFiles/graphs.dir/kruskals.cpp.o	e5b4ae3a87e3b979
+766	870	1624812411614097765	graphs	2043b8978aedf0c3
+1	717	1624812529175877149	CMakeFiles/graphs.dir/kruskals.cpp.o	e5b4ae3a87e3b979
+717	820	1624812529275878586	graphs	2043b8978aedf0c3
+0	727	1624812674269848666	CMakeFiles/graphs.dir/kruskals.cpp.o	e5b4ae3a87e3b979
+727	833	1624812674373850004	graphs	2043b8978aedf0c3
+0	758	1624813283272523369	CMakeFiles/graphs.dir/kruskals.cpp.o	e5b4ae3a87e3b979
+758	877	1624813283392524530	graphs	2043b8978aedf0c3
+1	719	1624813390228981919	CMakeFiles/graphs.dir/kruskals.cpp.o	e5b4ae3a87e3b979
+719	823	1624813390332988527	graphs	2043b8978aedf0c3

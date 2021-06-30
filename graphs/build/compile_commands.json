@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/dell/my/cppvs/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/graphs.dir/ssspontreeusingdfs.cpp.o -c /home/dell/my/cppvs/ssspontreeusingdfs.cpp",
+  "file": "/home/dell/my/cppvs/ssspontreeusingdfs.cpp"
+}
+]

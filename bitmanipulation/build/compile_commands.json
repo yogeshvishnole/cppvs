@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/dell/my/cppvs/bitmanipulation/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/bitmanipulation.dir/countSetBits.cpp.o -c /home/dell/my/cppvs/bitmanipulation/countSetBits.cpp",
+  "file": "/home/dell/my/cppvs/bitmanipulation/countSetBits.cpp"
+}
+]

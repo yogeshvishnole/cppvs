@@ -1,0 +1,15 @@
+# ninja log v5
+0	423	1624201596025563946	CMakeFiles/bitmanipulation.dir/isIthBitSet.cpp.o	aca180d3b9f7efb7
+424	536	1624201596141569142	bitmanipulation	84085c4c91864e57
+1	453	1624201614518395114	CMakeFiles/bitmanipulation.dir/isIthBitSet.cpp.o	aca180d3b9f7efb7
+454	560	1624201614622399804	bitmanipulation	84085c4c91864e57
+1	451	1624201624766858204	CMakeFiles/bitmanipulation.dir/isIthBitSet.cpp.o	aca180d3b9f7efb7
+451	558	1624201624874863092	bitmanipulation	84085c4c91864e57
+0	453	1624201634591303710	CMakeFiles/bitmanipulation.dir/isIthBitSet.cpp.o	aca180d3b9f7efb7
+453	559	1624201634695308434	bitmanipulation	84085c4c91864e57
+1	489	1624201640443569798	CMakeFiles/bitmanipulation.dir/isIthBitSet.cpp.o	aca180d3b9f7efb7
+489	597	1624201640547574532	bitmanipulation	84085c4c91864e57
+0	442	1624202939191615952	CMakeFiles/bitmanipulation.dir/countSetBits.cpp.o	14a3b38af8a9dbd2
+442	552	1624202939299614384	bitmanipulation	d44afbd75a605a78
+0	613	1624203026722213872	CMakeFiles/bitmanipulation.dir/countSetBits.cpp.o	14a3b38af8a9dbd2
+613	757	1624203026866211616	bitmanipulation	d44afbd75a605a78

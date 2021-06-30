@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/dell/my/cppvs/AcroPrograms100/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/AcroPrograms100.dir/12powerUsingRecursion.cpp.o -c /home/dell/my/cppvs/AcroPrograms100/12powerUsingRecursion.cpp",
+  "file": "/home/dell/my/cppvs/AcroPrograms100/12powerUsingRecursion.cpp"
+}
+]

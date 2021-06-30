@@ -1,0 +1,27 @@
+# ninja log v5
+1	642	1624699635309529876	CMakeFiles/problem_soving.dir/knightMovesInterviewBit.cpp.o	fa05d4f97d2cf6f0
+1	842	1624372402764235168	CMakeFiles/problem_soving.dir/feasibleRelationsHackerRank.cpp.o	e3ef755d77b10c55
+1	808	1624361797299548633	CMakeFiles/problem_soving.dir/primePath.cpp.o	e154a0b24ba638df
+1	1208	1624463510276100734	CMakeFiles/problem_soving.dir/submergingIslandsSpoj.cpp.o	96cc5beb057f729e
+1	680	1624351170346373982	CMakeFiles/problem_soving.dir/longestPathInTreeSpoj.cpp.o	e097d975f99c9da2
+0	688	1624453686845148562	CMakeFiles/problem_soving.dir/bertownRoadsCodeforces.cpp.o	59907e05f28f2178
+642	747	1624699635413525599	problem_soving	2afd08b605b9e9ed
+1	678	1624197885521337406	CMakeFiles/problem_soving.dir/chefFIRSC.cpp.o	f6ed9f46892c25b2
+1	675	1624699755661349261	CMakeFiles/problem_soving.dir/knightMovesInterviewBit.cpp.o	fa05d4f97d2cf6f0
+675	781	1624699755765346263	problem_soving	2afd08b605b9e9ed
+0	654	1624700125043646391	CMakeFiles/problem_soving.dir/knightMovesInterviewBit.cpp.o	fa05d4f97d2cf6f0
+654	754	1624700125143645902	problem_soving	2afd08b605b9e9ed
+0	805	1624807322743415812	CMakeFiles/problem_soving.dir/walkToRememberHackerearth.cpp.o	167495e0512ebf26
+805	939	1624807322875435363	problem_soving	550ba0515aabc9c3
+1	771	1624807407571179129	CMakeFiles/problem_soving.dir/walkToRememberHackerearth.cpp.o	167495e0512ebf26
+771	884	1624807407683193671	problem_soving	550ba0515aabc9c3
+1	736	1624807490349283211	CMakeFiles/problem_soving.dir/walkToRememberHackerearth.cpp.o	167495e0512ebf26
+736	848	1624807490457295600	problem_soving	550ba0515aabc9c3
+0	651	1624874502417005334	CMakeFiles/problem_soving.dir/test.cpp.o	a3eb97dc152b6b18
+651	772	1624874502537002098	problem_soving	69774fc4dd330ca
+1	626	1624874684810016861	CMakeFiles/problem_soving.dir/test.cpp.o	a3eb97dc152b6b18
+626	731	1624874684918040292	problem_soving	69774fc4dd330ca
+1	651	1624874990126289467	CMakeFiles/problem_soving.dir/test.cpp.o	a3eb97dc152b6b18
+652	756	1624874990234297531	problem_soving	69774fc4dd330ca
+1	580	1624875158568101266	CMakeFiles/problem_soving.dir/test.cpp.o	a3eb97dc152b6b18
+580	681	1624875158676106127	problem_soving	69774fc4dd330ca

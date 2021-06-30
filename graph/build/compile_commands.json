@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/dell/my/cppvs/graph/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/graphs.dir/kruskals.cpp.o -c /home/dell/my/cppvs/graph/kruskals.cpp",
+  "file": "/home/dell/my/cppvs/graph/kruskals.cpp"
+}
+]
